@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("I'm excited to learn about Git and GitHub in Visual Studio!");
+
+Console.WriteLine("Adding my new change");
