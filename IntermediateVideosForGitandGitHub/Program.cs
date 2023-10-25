@@ -7,6 +7,8 @@ Console.WriteLine("My first commit on the new feature branch");
 
 Console.WriteLine("My next commit on the new feature branch");
 
+Console.WriteLine("My next commit on the new feature branch");
+
 Console.WriteLine("Execution finished here!"); 
 
 // Don't add this comment to the commit
