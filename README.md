@@ -1,1 +1,1 @@
-# IntermediateVideosForGitandGitHub
+# LearningVideosForGitandGitHub
